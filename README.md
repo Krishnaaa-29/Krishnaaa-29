@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Krishna Kulshreshtha</h1>
-- 🔭 I’m currently working on **various Full Stack projects**
-- 👯 I’m looking to collaborate on **any MERN stack projects**
-- 🌱 I’m currently learning **Vue.js, TypeScript**
-- 💬 Ask me about **MERN**
-- 📫 How to reach me **kkulshreshtha29@gmail.com**
-- 👨‍💻 All of my projects are available at **https://myreact-comfy-sloth.netlify.app/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1fs7uMivZtoljoKbejlHVILk67jWRDHcb/view?usp=sharing**
+
+- 🔭 I’m currently working on **various Full Stack projects** <br/>
+- 👯 I’m looking to collaborate on **any MERN stack projects** <br/>
+- 🌱 I’m currently learning **Vue.js, TypeScript** <br/>
+- 💬 Ask me about **MERN** <br/>
+- 📫 How to reach me **kkulshreshtha29@gmail.com** <br/>
+- 👨‍💻 All of my projects are available at **https://myreact-comfy-sloth.netlify.app/** <br/>
+- 📄 Know about my experiences **https://drive.google.com/file/d/1fs7uMivZtoljoKbejlHVILk67jWRDHcb/view?usp=sharing** <br/>
 - ⚡ Fun fact **I am Mechanical Engineer by degree**
 
 <div> <a href="https://twitter.com/krishna_29" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
